@@ -2,7 +2,7 @@
 
 __Würd Lürnür__ simulates a flashcard rote-learning environment for a given database of words. The program opens a local .csv file and uses Python's [Pygame](https://www.pygame.org/) and [Pandas](https://pandas.pydata.org/) libraries for graphics/SFX and database manipulation, respectively.
 
-The User starts a new Session by selecting the number of words to be added. Each word is then displayed to the User in the form of a flashcard, containing the word's part of speech, context (example sentences), definition, and image. The User selects whether they 'failed' or 'passed' the given card (a 'skip' option is also available), and with each card change, the database is updated. A word is deemed *lürnt*, once 5 passes have been registered, at which point it is excluded in any subsequent executions of the program.
+The User starts a new Session by selecting the number of words to be added. Each word is then displayed to the User in the form of a flashcard, containing the word's part of speech, context (example sentences), definition, and image. The User selects whether they 'failed' or 'passed' the given card (a 'skip' option is also available), and with each card change the database is updated. A word is deemed *lürnt* once 5 passes have been registered, at which point it is excluded in any subsequent executions of the program.
 
 A sample database of 200 words is included with the code and for each word the following information is displayed:
 * part of speech
