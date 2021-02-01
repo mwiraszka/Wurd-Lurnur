@@ -58,10 +58,10 @@ Big thank you to everyone who has helped move this thing along:
 
 ![Würd Lürnür Screenshot 1](screenshots/wl_1.png "Würd Lürnür Screenshot")
 
-![Würd Lürnür Screenshot 2](screenshots/wl_1.png "Würd Lürnür Screenshot")
+![Würd Lürnür Screenshot 2](screenshots/wl_2.png "Würd Lürnür Screenshot")
 
-![Würd Lürnür Screenshot 3](screenshots/wl_1.png "Würd Lürnür Screenshot")
+![Würd Lürnür Screenshot 3](screenshots/wl_3.png "Würd Lürnür Screenshot")
 
-![Würd Lürnür Screenshot 4](screenshots/wl_1.png "Würd Lürnür Screenshot")
+![Würd Lürnür Screenshot 4](screenshots/wl_4.png "Würd Lürnür Screenshot")
 
 
