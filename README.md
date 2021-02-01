@@ -41,7 +41,7 @@ python wurd_lurnur.py chron
 
 ## License
 
-__Würd Lürnür__ is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. Any comments, suggestions, and forks welcome.
+__Würd Lürnür__ is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details. Any comments, suggestions, and forks welcome.
 
 All word images included are for demonstrative purposes only.
 <br/><br/>
@@ -56,12 +56,12 @@ Big thank you to everyone who has helped move this thing along:
 
 <br/><br/>
 
-![Würd Lürnür Screenshot 1](img/wl_screenshot_1.png "Würd Lürnür Screenshot")
+![Würd Lürnür Screenshot 1](screenshots/wl_1.png "Würd Lürnür Screenshot")
 
-![Würd Lürnür Screenshot 2](img/wl_screenshot_2.png "Würd Lürnür Screenshot")
+![Würd Lürnür Screenshot 2](screenshots/wl_1.png "Würd Lürnür Screenshot")
 
-![Würd Lürnür Screenshot 3](img/wl_screenshot_3.png "Würd Lürnür Screenshot")
+![Würd Lürnür Screenshot 3](screenshots/wl_1.png "Würd Lürnür Screenshot")
 
-![Würd Lürnür Screenshot 4](img/wl_screenshot_4.png "Würd Lürnür Screenshot")
+![Würd Lürnür Screenshot 4](screenshots/wl_1.png "Würd Lürnür Screenshot")
 
 
