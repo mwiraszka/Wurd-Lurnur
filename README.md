@@ -41,7 +41,7 @@ python wurd_lurnur.py chron
 
 ## License
 
-__Würd Lürnür__ is licensed under the MIT License - see the [https://github.com/mwiraszka/Wurd-Lurnur/blob/main/LICENSE](LICENSE.md) file for details. Any comments, suggestions, and forks welcome.
+__Würd Lürnür__ is licensed under the MIT License - see the [LICENCE.md](LICENSE) file for details. Any comments, suggestions, and forks welcome.
 
 All word images included are for demonstrative purposes only.
 <br/><br/>
