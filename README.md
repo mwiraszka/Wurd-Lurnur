@@ -41,18 +41,17 @@ python wurd_lurnur.py chron
 
 ## License
 
-__Würd Lürnür__ is licensed under the MIT License - see the [LICENCE.md](LICENSE) file for details. Any comments, suggestions, and forks welcome.
+__Würd Lürnür__ is licensed under the MIT License - see the [LICENCE](LICENSE "MIT License") file for details. Any comments, suggestions, and forks welcome.
 
 All word images included are for demonstrative purposes only.
 <br/><br/>
 
 ## Acknowledgments
 
-Big thank you to everyone who has helped move this thing along:
+Big thank you to all who helped move this thing along, in particular
 
 * [Adam Wiraszka](https://github.com/wiraszka "Adam's Github page") for sharing some invaluable Pandas wisdom;
-* [Juan Moreno](https://github.com/juansolu "Juan's Github page") for various project style & formatting recommendations; and of course
-* [My best friend in these difficult times](https://www.amazon.ca/Lavazza-Espresso-Crema-Gusto-Coffee/dp/B0769XQ54M/ref=sr_1_8?dchild=1&keywords=lavazza+coffee&qid=1612121705&sr=8-8 "Pure bliss").
+* [Juan Moreno](https://github.com/juansolu "Juan's Github page") for various project style & formatting recommendations
 
 <br/><br/>
 
