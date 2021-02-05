@@ -18,7 +18,7 @@ Stable on Python 3.9.1, Pandas 1.2.1 and Pygame 2.0.1.
 
 ## Getting Started
 
-1) Download all files and folders.
+1) Download all files and folders into the same directory.
 
 2) Install any missing modules (e.g. Pandas, Python).
 
